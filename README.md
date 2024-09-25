@@ -22,4 +22,4 @@ This Python script checks for security headers from a provided URL. It sends a H
 # *Usage*
 Run the script and pass the URL as a command-line argument:
 
-python security_headers.py <URL>
+python security_headers.py < URL >
