@@ -21,7 +21,7 @@ Permissions-Policy
 
 *Modular Design: The get_security_headers function can easily be reused or modified for more advanced functionality if needed.
 
-# *Usage
+# *Usage*
 Run the script and pass the URL as a command-line argument:
 
 python security_headers.py https://example.com
